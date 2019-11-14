@@ -1,3 +1,4 @@
+Crypto Risky, [14.11.19 23:20]
 ### Keybase proof
 
 I hereby claim:
@@ -19,13 +20,13 @@ json
       "username": "igxer"
     },
     "merkle_root": {
-      "ctime": 1573747840,
-      "hash": "d9ebb3f048bee3433280b57a46c1b41de16bd18e411256a38849f04cd6129d9a0eb9a34822051d297450f57905e2d560c1aaf9077e97aae2ae4a5c178183cf5b",
-      "hash_meta": "02b9cdecccfc5481292050dd2a57bac33ff5e7dbc31e305899f813ca3953ef1f",
-      "seqno": 9539577
+      "ctime": 1573748309,
+      "hash": "2a07bdeb4e442b0b46ebdc4a2ca9d80b78c1364c39136a40df1e0a94bec4c3c5a6de9b2f718544042d573150b2466f11722e3205779ce085caf98ef7c54b0483",
+      "hash_meta": "4600fdf4e4e8ff4f30209ff0a52f39e4307c7e5415511fef02184610217385c6",
+      "seqno": 9540636
     },
     "service": {
-      "entropy": "46SIZy4ezQVgHdd8hEtPitvI",
+      "entropy": "TeCYdPFOFlRflwM1pr3FJ82v",
       "name": "github",
       "username": "igxer"
     },
@@ -36,10 +37,10 @@ json
     "name": "keybase.io go client",
     "version": "4.7.2"
   },
-  "ctime": 1573747845,
+  "ctime": 1573748314,
   "expire_in": 504576000,
-  "prev": "1e3a597b8a365dff2b63d04606c770ed1e84ba914b55e05e40212fc74dadd93c",
-  "seqno": 8,
+  "prev": "2e932692b1e4abb259f9c30d9d717f5818f930c4f841b376154417c031a3d2ea",
+  "seqno": 12,
   "tag": "signature"
 }
 
@@ -47,7 +48,7 @@ json
 with the key [ASC7k8bFprVLF_ATSOJY8-wcmI6vzBTU34X0SrVPhdEmOAo](https://keybase.io/igxer), yielding the signature:
 
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgu5PGxaa1SxfwE0jiWPPsHJiOr8wU1N+F9Eq1T4XRJjgKp3BheWxvYWTESpcCCMQgHjpZe4o2Xf8rY9BGBsdw7R6EupFLVeBeQCEvx02t2TzEIBR2HnsTshshOO3HKWdVD459hdeuFdpmmIpRiJpW1rpNAgHCo3NpZ8RAOi4gBpSVBR4C0lI8NbQu+La1tKRzZQv1dibm6wFixGST/yz0HIKiUzPDRJ0Wtpj0v6D+Xk0KNPfw1wj+tRxBBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH1vWBBUoEsCAPHfwCwDdrcdbj4aMHl4LVccVLV3OAyto3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgu5PGxaa1SxfwE0jiWPPsHJiOr8wU1N+F9Eq1T4XRJjgKp3BheWxvYWTESpcCDMQgLpMmkrHkq7JZ+cMNnXF/WBj5MMT4QbN2FUQXwDGj0urEIHUNbqwWZhLnKZXOIIs29Wpjd06DArytP/UEa56AwmS+AgHCo3NpZ8RAG/uZJWgbGrT3ihUUpob9HeoPBVf3IcoC1FMv413gUAhd7G9zgjfqEyJRdQpCDQfI+57YdECmZUkTK24DyNQ0CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILu8FVFgI3gbQjheI4uEI/p7fxIDRF6aOeTHhPl1Bgx1o3RhZ80CAqd2ZXJzaW9uAQ==
 
 
 
@@ -64,7 +65,3 @@ Consider the [keybase command line program](https://keybase.io/download).
 bash
 # look me up
 keybase id igxer
-
-keybase.io (https://keybase.io/igxer)
-igxer (Tavewat Kongsiriwatanakul) on Keybase
-igxer (Tavewat Kongsiriwatanakul) is now on Keybase, an open source app for encryption and cryptography.
